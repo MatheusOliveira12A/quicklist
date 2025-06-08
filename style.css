@@ -187,7 +187,7 @@ main {
     /*Efeitos para a hora em que for aparecer */
     opacity: 1;
     transform: translateY(0);
-    transition: opacity .4s ease, trasnform .4s ease;
+    transition: opacity .4s ease, transform .4s ease;
 
     div {
         display: flex;
